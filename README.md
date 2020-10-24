@@ -1,4 +1,15 @@
-## Telegram messenger for Android
+## An Education App Based on Telegram Messenger for Android
+
+[Saarthi Education](https://saarthieducation.org) is proud to sponsor this project to bring knowledge through an interface that parents and children find familiar and easy to use.
+
+Key objectives of this project are:
+
+1. Control and limit the messages to only education related material.
+2. Allow configurability and personalization of content for individual child.
+3. Allow parents the ability to monitor a childs progress and work with least intrusive manner.
+4. Follow the same principles as Telegram for privacy and security.
+
+## Original Message from - Telegram messenger for Android
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
